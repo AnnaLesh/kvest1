@@ -1,0 +1,19 @@
+body{
+    background: black
+}
+
+h2{
+    color: white;
+}
+h3, h4{
+    color: white;
+}
+.hi{
+    color: #ffa500;
+}
+.img{
+    width: 400px;
+}
+.ozero{
+    z-index: -2;
+}

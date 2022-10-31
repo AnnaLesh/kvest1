@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.icon{
+    width: 85px;
+}
+h1{
+    color: #ffa500;
+}
+h2, h3, p{
+    color: white;
+}
+.icon{
+    padding-top: 20px;
+}
